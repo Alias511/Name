@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Dyashafitness_pp</title>
+	<style>
+		.header{
+			color: red;
+			margin-top: 30px;
+			margin-left: 700px;
+			font-size: 50px;
+		}
+        .nav{
+        	font-size: 30px;
+        	margin-left: 180px;
+        	color: green; 
+
+        }
+        .body{
+        	background-color: #81F7BE;
+        }
+		.btn{
+			background-color: #9AFE2E;
+			width: 250px;
+			height: 50px;
+			font-size: 20px;
+
+	</style>
+</head>
+<body class="body">
+
+<header><h1 class="header"><em>Хватит жрать!</em></h1></header>
+	<nav>
+		<a class="nav" id="about" href="#">Обо мне</a> <!-- <strong></strong> -->
+		<a class="nav" id="services" href="https://www.instagram.com/p/Bgtno2nlDQE/?taken-by=dyashafitness_pp">Услуги</a>
+		<a class="nav" id="feedback" href="https://www.instagram.com/p/BaEWfZxFQLb/?taken-by=dyashafitness_pp">Отзывы</a>
+		<a class="nav" id="contacts" href="https://www.instagram.com/dyashafitness_pp/">Контакты</a>
+		<a class="nav" id="articles" href="articles.html">Статьи</a>
+		<!-- <a class="nav" id="articles" href="http://easy-lose-weight.info/tablitsa-kaloriinosti-productov-pitaniya/">Статьи</a> -->
+		<a class="nav" id="faq" href="#">FAQ</a>
+
+	</nav>
+	<img src="img/eda.jpg" width="33%" height="33%" alt="">
+	<img src="img/racion.jpg" width="33%" height="33%" alt="">
+    <img src="img/salad.jpg" width="33%" height="33%" alt="">
+ <button class="btn"> Задать вопрос </button>
+
+</body>
+</html>
